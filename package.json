@@ -26,7 +26,7 @@
   "author": "sanix-darker <s4nixd@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "preact": "^10.5.7"
+    "preact": "^11.0.1"
   },
   "devDependencies": {
     "enzyme": "^3.11.0",
@@ -36,7 +36,7 @@
     "jest": "^30.0.0",
     "jest-preset-preact": "^4.0.2",
     "microbundle": "^0.15.1",
-    "preact": "^10.5.7",
+    "preact": "^11.0.1",
     "preact-cli": "^3.0.5",
     "preact-habitat": "^3.3.0",
     "preact-render-to-string": "^6.4.2"
